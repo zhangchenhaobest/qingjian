@@ -1,3 +1,29 @@
+# qingjian
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Qingjian, a Rust pinyin input method that shows translations of the language you are learning next to candidate words.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+青简：用 Rust 写的拼音输入法，候选词旁附带正在学习的语言的译词。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center"><b>简体中文</b> | <a href="docs/i18n/README.zh-Hant.md">繁體中文</a> | <a href="docs/i18n/README.en.md">English</a> | <a href="docs/i18n/README.ja.md">日本語</a> | <a href="docs/i18n/README.es.md">Español</a> | <a href="docs/i18n/README.vi.md">Tiếng Việt</a> | <a href="docs/i18n/README.de.md">Deutsch</a></p>
 
 <p align="center">
